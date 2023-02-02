@@ -1,1 +1,1 @@
-# Mi primer APP con React + vite
+# React + vite
